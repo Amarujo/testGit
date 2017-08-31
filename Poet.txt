@@ -1,7 +1,9 @@
 The rainbow is...
 red
 orange
+yellow
 green
+cyan
 blue
 purple
 that's a rainbow....
