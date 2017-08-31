@@ -6,4 +6,5 @@ green
 cyan
 blue
 purple
+black
 that's a rainbow....
